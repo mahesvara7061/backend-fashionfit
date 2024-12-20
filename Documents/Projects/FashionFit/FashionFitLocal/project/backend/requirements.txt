@@ -1,0 +1,6 @@
+flask
+paypalrestsdk
+python-dotenv
+requests
+pymongo
+flask-cors

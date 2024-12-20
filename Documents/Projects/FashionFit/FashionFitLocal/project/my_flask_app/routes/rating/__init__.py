@@ -1,0 +1,1 @@
+from .routes import rating_bp
